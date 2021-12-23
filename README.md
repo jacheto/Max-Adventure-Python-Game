@@ -2,9 +2,9 @@
 
 
 ## About the game
-This was a project made for a 2 semester course in Python object oriented programming at the university.
+This was a project made for a 2 semester Python course at the university.
 
-It was my first time using Python, but I got so involved that I ended up doing something beyond expected. The game uses pygame library as the rendering engine, and a pyshics engine made from scratch to simulate gravity and object interations.
+It was my first time using Python, but I got so involved that I ended up doing something beyond expected. The game uses the Pygame library as the render engine, and a pyshics engine made from scratch to simulate gravity and different object interation (that was the hardest part by far, but it was worth it to learn).
 
 Video showing the gameplay:
 
